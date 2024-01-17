@@ -9,4 +9,6 @@ This project implements a 2D Path Planning system using the Rapidly-exploring Ra
 - **2D Environment:** Utilizes a 2D environment with obstacles, allowing the system to navigate around them.
 - **Visualization:** Provides visualization tools for observing the RRT, shortest paths, and the overall path planning process.
 
-
+## Example Paths
+![RRT Paths](images/sample_path.png)
+*Generated paths using the Djikstra and A-star algorithms.*
