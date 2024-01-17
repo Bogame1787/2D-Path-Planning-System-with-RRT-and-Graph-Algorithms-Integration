@@ -9,8 +9,4 @@ This project implements a 2D Path Planning system using the Rapidly-exploring Ra
 - **2D Environment:** Utilizes a 2D environment with obstacles, allowing the system to navigate around them.
 - **Visualization:** Provides visualization tools for observing the RRT, shortest paths, and the overall path planning process.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/2d-path-planning.git
-   cd 2d-path-planning
+
